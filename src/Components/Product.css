@@ -46,3 +46,15 @@
     
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
   }
+  @media (max-width:1012px){
+    .product > img {
+      height: 70px;
+    }
+   
+  }
+  @media (max-width:930px){
+    .product {
+      height: 300px;
+    }
+
+  }
